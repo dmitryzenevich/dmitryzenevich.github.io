@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Dmitry Zenevich
+# Unity3D Game Developer
 
-You can use the [editor on GitHub](https://github.com/dmitryzenevich/dmitryzenevich.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**ABOUT ME.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have 2 years of experience as a Unity3D Game Developer, and worke at small organization. My expertise is in building Mobile/PC/VR/AR games.
 
-### Markdown
+I love building game apps. It gives me great pleasure. I'm looking for a Middle Unity Game Developer role where I can take on on create game apps and gain experience with architecture, communication with the team and foreign customers.
+ 
+**INTERESTS.**
+*In developing*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**RECENT PROJECTS**
+*In developing*
 
-```markdown
-Syntax highlighted code block
+**OTHER THINGS**
+*In developing*
 
-# Header 1
-## Header 2
-### Header 3
+**CONTACTS**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmitryzenevich/dmitryzenevich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**PORTFOLIO**
